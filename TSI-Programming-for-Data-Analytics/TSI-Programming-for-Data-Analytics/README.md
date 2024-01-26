@@ -2,5 +2,5 @@ This reposity contains homework for the python-based "Programming for Data Analy
 
 1. Introduction to Python programming
 
-  Lab1. ReportAssignment
+Lab1. ReportAssignment
 
