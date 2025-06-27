@@ -1,0 +1,118 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw", 
+    {
+      "@language": "lv"
+    }
+  ], 
+  "url": "https://data.gov.lv/dati/dataset/77c9fc67-476a-4302-a15d-77336de395ae/resource/2b60b7c7-d9a4-475f-a09c-08bd1779393e/download/political_parties.csv", 
+  "dialect": {
+    "quoteChar": "\"", 
+    "delimiter": ";", 
+    "encoding": "ISO-8859-1"
+  }, 
+  "dc:title": "Politisko partiju un to apvien\u012bbu saraksts", 
+  "dcat:keyword": [
+    "uz\u0146\u0113mumu re\u0123istrs"
+  ], 
+  "dc:publisher": {
+    "schema:name": "LR Uz\u0146\u0113mumu re\u0123istrs", 
+    "schema:url": "https://data.gov.lv/dati/organization/ur"
+  }, 
+  "dc:license": {
+    "@id": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.lv"
+  }, 
+  "dc:issued": {
+    "@value": "2023-06-14", 
+    "@type": "xsd:date"
+  }, 
+  "dc:modified": {
+    "@value": "2023-06-14", 
+    "@type": "xsd:date"
+  }, 
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "legal_entity_registration_number", 
+        "titles": "Re\u0123istr\u0101cijas numurs", 
+        "dc:description": "Politik\u0101s partijas vai to apvien\u012bbu re\u0123istr\u0101cijas numurs", 
+        "datatype": {
+          "length": "", 
+          "base": "decimal"
+        }, 
+        "required": true, 
+        "foreignKeys": [
+          {
+            "reference": {
+              "resource": "https://data.gov.lv/dati/lv/dataset/uz/resource/25e80bf3-f107-4ab4-89ef-251b5b9374e9", 
+              "columnReference": "regcode"
+            }
+          }
+        ]
+      }, 
+      {
+        "name": "name", 
+        "titles": "Nosaukums", 
+        "dc:description": "Politisk\u0101s partijas vai to apvien\u012bbu nosaukums", 
+        "datatype": {
+          "length": "", 
+          "base": "string"
+        }
+      }, 
+      {
+        "name": "legal_form_code", 
+        "titles": "Juridisk\u0101s formas kods", 
+        "dc:description": "Politisk\u0101s partijas vai to apvien\u012bbu veida kods", 
+        "datatype": {
+          "length": "", 
+          "base": "string"
+        }
+      }, 
+      {
+        "name": "legal_form_code_text", 
+        "titles": "Juridisk\u0101s formas apraksts", 
+        "dc:description": "Politisk\u0101s partijas vai to apvien\u012bbu veida apraksts", 
+        "datatype": {
+          "length": "", 
+          "base": "string"
+        }
+      }, 
+      {
+        "name": "registered_on", 
+        "titles": "Re\u0123istr\u0101cijas datums", 
+        "dc:description": "Datums, kad politisk\u0101 partija vai to apvien\u012bba re\u0123istr\u0113ta", 
+        "datatype": {
+          "length": "", 
+          "base": "date"
+        }
+      }, 
+      {
+        "name": "liquidation_type", 
+        "titles": "Likvid\u0101cijas kods", 
+        "dc:description": "Paz\u012bme par aktu\u0101la likvid\u0101cijas procesu. Likvid\u0101cijas kods.", 
+        "datatype": {
+          "length": "", 
+          "base": "string"
+        }
+      }, 
+      {
+        "name": "liquidation_type_text", 
+        "titles": "Likvid\u0101cijas apraksts", 
+        "dc:description": "Paz\u012bme par aktu\u0101la likvid\u0101cijas procesu. Likvid\u0101cijas apraksts.", 
+        "datatype": {
+          "length": "", 
+          "base": "string"
+        }
+      }, 
+      {
+        "name": "notes", 
+        "titles": "Piez\u012bmes", 
+        "dc:description": "Piez\u012bmes par likvid\u0101ciju", 
+        "datatype": {
+          "length": "", 
+          "base": "string"
+        }
+      }
+    ]
+  }
+}
