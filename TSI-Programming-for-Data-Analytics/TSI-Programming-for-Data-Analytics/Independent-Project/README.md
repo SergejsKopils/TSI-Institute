@@ -4,6 +4,8 @@ Introduction
 
 In this project, I focused on analyzing the market, specifically in areas like real estate, using web scraping and data visualization techniques. My aim was to extract valuable insights from online marketplaces and understand trends and patterns within these sectors.
 
+Link: https://www.ss.com/en/real-estate/premises/garages/all/
+
 Methodology
 
 Data Collection:
