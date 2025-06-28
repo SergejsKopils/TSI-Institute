@@ -1,6 +1,6 @@
 This reposity contains homework for the python-based "Data Mining" course, presented for master students of Transport and Telecommunication Institute through collaboration with the University of the West of England (UWE Bristol).
 
-Computer Practice 1. Data exploration and visualisation
+# Computer Practice 1. Data exploration and visualisation
 
 ## Project Overview
 This project involves a comprehensive exploratory data analysis (EDA) on the Auto MPG dataset to understand trends in fuel efficiency and vehicle characteristics.
