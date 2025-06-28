@@ -36,7 +36,6 @@ This project performs clustering analysis on the California housing dataset to i
 ## Dependencies
 - Python 3.x
 - pandas
-- numpy
 - scikit-learn
 - matplotlib
 - seaborn
