@@ -33,7 +33,7 @@ This project performs clustering analysis on the California housing dataset to i
 3. Execute clustering notebooks/scripts.
 4. Visualize results with provided plotting scripts.
 
-## Dependencies
+## Libraries Used
 - Python 3.x
 - pandas
 - scikit-learn
