@@ -21,7 +21,7 @@ This project involves a comprehensive exploratory data analysis (EDA) on the Aut
 - Calculated Pearson correlation coefficients between MPG and attributes like weight, displacement, horsepower, and power-to-weight ratio.
 - Investigated how power-to-weight ratio impacts fuel efficiency.
 
-## Tools and Libraries
+## Libraries Used
 - Python 3.x
 - pandas
 - matplotlib
