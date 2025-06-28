@@ -1,8 +1,6 @@
 This reposity contains homework for the python-based "Data Mining" course, presented for master students of Transport and Telecommunication Institute through collaboration with the University of the West of England (UWE Bristol).
 
-# Computer Practice 3. Regression Analysis
-
-# Housing Price Prediction Project
+# Computer Practice 3. Regression Analysis Housing Price Prediction Project
 
 ## Project Description
 This project involves analyzing a housing dataset and building regression models to predict house prices based on various features such as size, number of rooms, condition, view, and more.
