@@ -1,8 +1,7 @@
 This reposity contains homework for the python-based "Data Mining" course, presented for master students of Transport and Telecommunication Institute through collaboration with the University of the West of England (UWE Bristol).
 
-Computer Practice 2. Cluster Analysis
+# Computer Practice 2. California Housing Clustering Analysis
 
-# California Housing Clustering Analysis
 
 ## Overview
 This project performs clustering analysis on the California housing dataset to identify distinct market segments based on housing characteristics and economic factors. Both hierarchical and K-means clustering methods were applied on original and scaled data to explore the natural groupings in the dataset.
