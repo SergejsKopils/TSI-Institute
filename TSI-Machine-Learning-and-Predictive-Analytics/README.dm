@@ -1,6 +1,6 @@
-🧠 Mushroom Risk Prediction and Grouping
+# 🧠 Mushroom Risk Prediction and Grouping
 
-This project was developed as part of the **Machine Learning and Predictive Analytics** course at Transport and Telecommunication Institute (TSI).
+## This project was developed as part of the **Machine Learning and Predictive Analytics** course at Transport and Telecommunication Institute (TSI).
 
 📂 Project Structure
 - `Sergejs_Kopils_ST83519_20241222_CP_ML.ipynb`: Main notebook with all steps of the machine learning pipeline
