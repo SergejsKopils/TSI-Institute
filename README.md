@@ -1,4 +1,23 @@
-## 👨‍💻 Master of Natural Sciences in Computer Science: **[Data Analytics and Artificial Intelligence](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/)**
+# 👨‍💻 About
+
+This repository contains projects and research work completed during my studies at the Transport and Telecommunication Institute (TSI) in Riga, Latvia, and the University of the West of England (UWE).  
+I have completed a double degree in Computer Science with a focus on Data Analytics and Artificial Intelligence.
+
+### Degrees
+
+- **Master of Natural Sciences in Computer Science with specialisation in Data Analytics and Artificial Intelligence**  
+  Transport and Telecommunication Institute (TSI), Riga, Latvia
+
+- **MSc Computer Science: Data Analytics and Artificial Intelligence**  
+  University of the West of England (UWE), Bristol, UK
+
+### Specialisations / Tracks  
+- [Data Analytics and Artificial Intelligence](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence)
+
+---
+
+
+
 
 ### Projects and Research
 
